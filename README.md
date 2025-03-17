@@ -1,1 +1,1 @@
-# Strategy_Factory_Pattern
+# Exercicío 06 - Strategy Pattern + Factory Pattern
